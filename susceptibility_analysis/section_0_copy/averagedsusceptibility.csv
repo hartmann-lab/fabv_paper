@@ -1,0 +1,705 @@
+"isolate","treatment","variable","mean_value","min_value","max_value","stdev_value","ENR","species","origin","mod_variable"
+"109A1","con",".25",0.169,0.113,0.203,0.0282134719593318,"No FabV","stutzeri","study_isolate",0.25
+"109A1","con","32",0.0103333333333333,0,0.027,0.00841295297608264,"No FabV","stutzeri","study_isolate",32
+"109A1","con",".5",0.0516666666666667,0.025,0.073,0.0141106736590111,"No FabV","stutzeri","study_isolate",0.5
+"109A1","con","2",0.015,0.001,0.04,0.0125299640861417,"No FabV","stutzeri","study_isolate",2
+"109A1","con","1",0.0143333333333333,0.008,0.025,0.0053644923131437,"No FabV","stutzeri","study_isolate",1
+"109A1","inh","1",0.005,0,0.013,0.00404145188432738,"No FabV","stutzeri","study_isolate",1
+"109A1","inh","4",0.0156666666666667,0,0.046,0.0151694136706437,"No FabV","stutzeri","study_isolate",4
+"109A1","con",".0625",0.459333333333333,0.384,0.542,0.0457578165757259,"No FabV","stutzeri","study_isolate",0.0625
+"109A1","con","8",0.007,0,0.013,0.00378593889720018,"No FabV","stutzeri","study_isolate",8
+"109A1","inh","16",0.002,0,0.006,0.002,"No FabV","stutzeri","study_isolate",16
+"109A1","con","4",0.0253333333333333,0.001,0.071,0.0228497507888185,"No FabV","stutzeri","study_isolate",4
+"109A1","con","16",0.008,0,0.016,0.00461880215351701,"No FabV","stutzeri","study_isolate",16
+"109A1","inh","GC",0.439333333333333,0.298,0.521,0.0709514701124023,"No FabV","stutzeri","study_isolate",0
+"109A1","inh","2",0.00133333333333333,0.001,0.002,0.000333333333333333,"No FabV","stutzeri","study_isolate",2
+"109A1","inh","8",0.00333333333333333,0.001,0.008,0.00233333333333333,"No FabV","stutzeri","study_isolate",8
+"109A1","inh","32",0.0206666666666667,0.007,0.045,0.0121974496423547,"No FabV","stutzeri","study_isolate",32
+"109A1","inh",".0625",0.002,0.001,0.004,0.001,"No FabV","stutzeri","study_isolate",0.0625
+"109A1","inh",".25",0.001,0,0.003,0.001,"No FabV","stutzeri","study_isolate",0.25
+"109A1","inh",".125",0.001,0,0.002,0.000577350269189626,"No FabV","stutzeri","study_isolate",0.125
+"109A1","inh",".5",0.00166666666666667,0,0.004,0.00120185042515466,"No FabV","stutzeri","study_isolate",0.5
+"109A1","con","GC",0.464666666666667,0.397,0.509,0.0343721463461979,"No FabV","stutzeri","study_isolate",0
+"109A1","con",".125",0.246333333333333,0.173,0.353,0.0545690184791497,"No FabV","stutzeri","study_isolate",0.125
+"10A6","con",".25",0.0506666666666667,0.041,0.061,0.00578311719096582,"No FabV","psychrotolerans","study_isolate",0.25
+"10A6","inh","16",0.000666666666666667,0,0.002,0.000666666666666667,"No FabV","psychrotolerans","study_isolate",16
+"10A6","con",".125",0.174666666666667,0.069,0.369,0.0972905156962612,"No FabV","psychrotolerans","study_isolate",0.125
+"10A6","con","32",0.001,0,0.002,0.000577350269189626,"No FabV","psychrotolerans","study_isolate",32
+"10A6","con",".0625",0.386333333333333,0.22,0.614,0.117799735898591,"No FabV","psychrotolerans","study_isolate",0.0625
+"10A6","inh","4",0.001,0,0.002,0.000577350269189626,"No FabV","psychrotolerans","study_isolate",4
+"10A6","con","GC",0.397333333333333,0.323,0.447,0.0378608563617418,"No FabV","psychrotolerans","study_isolate",0
+"10A6","con","1",0.005,-0.002,0.015,0.00513160143944688,"No FabV","psychrotolerans","study_isolate",1
+"10A6","con","4",0.000666666666666667,-0.002,0.003,0.00145296631451356,"No FabV","psychrotolerans","study_isolate",4
+"10A6","con","16",-0.000666666666666667,-0.002,0,0.000666666666666667,"No FabV","psychrotolerans","study_isolate",16
+"10A6","con","2",0.001,-0.002,0.003,0.00152752523165195,"No FabV","psychrotolerans","study_isolate",2
+"10A6","inh","2",0.001,0,0.002,0.000577350269189626,"No FabV","psychrotolerans","study_isolate",2
+"10A6","inh","8",0,0,0,0,"No FabV","psychrotolerans","study_isolate",8
+"10A6","inh","32",0.0186666666666667,0.002,0.04,0.0112150692275071,"No FabV","psychrotolerans","study_isolate",32
+"10A6","inh",".125",0.000666666666666667,0,0.001,0.000333333333333333,"No FabV","psychrotolerans","study_isolate",0.125
+"10A6","con","8",0.000333333333333333,-0.002,0.002,0.00120185042515466,"No FabV","psychrotolerans","study_isolate",8
+"10A6","inh","1",0.002,0.001,0.004,0.001,"No FabV","psychrotolerans","study_isolate",1
+"10A6","con",".5",0.015,0.001,0.037,0.01113552872566,"No FabV","psychrotolerans","study_isolate",0.5
+"10A6","inh",".5",0.001,0,0.002,0.000577350269189626,"No FabV","psychrotolerans","study_isolate",0.5
+"10A6","inh",".0625",0.000666666666666667,0,0.001,0.000333333333333333,"No FabV","psychrotolerans","study_isolate",0.0625
+"10A6","inh","GC",0.387,0.288,0.545,0.0798394221755978,"No FabV","psychrotolerans","study_isolate",0
+"10A6","inh",".25",0.000666666666666667,0,0.001,0.000333333333333333,"No FabV","psychrotolerans","study_isolate",0.25
+"114A4","inh","8",0.0323333333333333,0,0.079,0.0239049041923293,"FabV","lurida","study_isolate",8
+"114A4","inh","4",0.213333333333333,0.125,0.344,0.0666691666197934,"FabV","lurida","study_isolate",4
+"114A4","inh","2",0.361666666666667,0.281,0.426,0.0426471309442708,"FabV","lurida","study_isolate",2
+"114A4","con","64",0.354,0.259,0.421,0.0488159809898357,"FabV","lurida","study_isolate",64
+"114A4","inh","1",0.445,0.415,0.47,0.0160727512683216,"FabV","lurida","study_isolate",1
+"114A4","con","4",0.770333333333333,0.739,0.804,0.0188001182029381,"FabV","lurida","study_isolate",4
+"114A4","inh","32",0.006,0.002,0.011,0.00264575131106459,"FabV","lurida","study_isolate",32
+"114A4","inh",".5",0.517666666666667,0.483,0.567,0.0253333333333334,"FabV","lurida","study_isolate",0.5
+"114A4","con","2",0.844,0.835,0.854,0.00550757054728614,"FabV","lurida","study_isolate",2
+"114A4","con","128",0.299666666666667,0.176,0.377,0.062477551524083,"FabV","lurida","study_isolate",128
+"114A4","inh","16",0.00133333333333333,0,0.003,0.000881917103688197,"FabV","lurida","study_isolate",16
+"114A4","inh",".25",0.529333333333333,0.47,0.617,0.0447375060150255,"FabV","lurida","study_isolate",0.25
+"114A4","con","1",0.874333333333333,0.862,0.895,0.0103976493069882,"FabV","lurida","study_isolate",1
+"114A4","con","8",0.665,0.591,0.731,0.0406119850947148,"FabV","lurida","study_isolate",8
+"114A4","inh","GC",0.565,0.475,0.696,0.0670099495100044,"FabV","lurida","study_isolate",0
+"114A4","con",".5",0.886666666666667,0.865,0.918,0.0160450753954117,"FabV","lurida","study_isolate",0.5
+"114A4","inh","128",0.0326666666666667,0.021,0.049,0.00841295297608264,"FabV","lurida","study_isolate",128
+"114A4","con","32",0.408,0.378,0.426,0.0150996688705415,"FabV","lurida","study_isolate",32
+"114A4","con",".25",0.888333333333333,0.824,0.939,0.0338936244414459,"FabV","lurida","study_isolate",0.25
+"114A4","inh","64",0.021,0.011,0.029,0.00529150262212918,"FabV","lurida","study_isolate",64
+"114A4","con","16",0.473333333333333,0.444,0.494,0.0150702060739431,"FabV","lurida","study_isolate",16
+"114A4","con","GC",0.903333333333333,0.819,1.002,0.0533114538454084,"FabV","lurida","study_isolate",0
+"115A1","inh","32",0.00966666666666667,0.003,0.015,0.00352766841475279,"No FabV","azotifigens","study_isolate",32
+"115A1","con",".25",0.138333333333333,0.033,0.209,0.0536821923711931,"No FabV","azotifigens","study_isolate",0.25
+"115A1","con","2",0.011,0.009,0.012,0.001,"No FabV","azotifigens","study_isolate",2
+"115A1","con","32",0.000666666666666667,0,0.001,0.000333333333333333,"No FabV","azotifigens","study_isolate",32
+"115A1","con","8",0.000666666666666667,0,0.002,0.000666666666666667,"No FabV","azotifigens","study_isolate",8
+"115A1","inh","1",0.00266666666666667,0.002,0.003,0.000333333333333333,"No FabV","azotifigens","study_isolate",1
+"115A1","inh",".5",0.00266666666666667,0.002,0.003,0.000333333333333333,"No FabV","azotifigens","study_isolate",0.5
+"115A1","con","4",0.004,0.001,0.006,0.00152752523165195,"No FabV","azotifigens","study_isolate",4
+"115A1","con","1",0.022,0.004,0.032,0.00901849950564579,"No FabV","azotifigens","study_isolate",1
+"115A1","inh","GC",0.178,0.006,0.275,0.0862341772926102,"No FabV","azotifigens","study_isolate",0
+"115A1","inh","8",0.000333333333333333,0,0.001,0.000333333333333333,"No FabV","azotifigens","study_isolate",8
+"115A1","inh","2",0.0166666666666667,0,0.049,0.0161692437808465,"No FabV","azotifigens","study_isolate",2
+"115A1","inh","16",0,0,0,0,"No FabV","azotifigens","study_isolate",16
+"115A1","inh","4",0.000333333333333333,-0.001,0.002,0.000881917103688197,"No FabV","azotifigens","study_isolate",4
+"115A1","inh",".125",0.00266666666666667,0.001,0.005,0.00120185042515466,"No FabV","azotifigens","study_isolate",0.125
+"115A1","con",".5",0.056,0.004,0.102,0.0284487843911358,"No FabV","azotifigens","study_isolate",0.5
+"115A1","inh",".0625",0.00233333333333333,0.002,0.003,0.000333333333333333,"No FabV","azotifigens","study_isolate",0.0625
+"115A1","con","GC",0.339,0.255,0.495,0.0780768851837726,"No FabV","azotifigens","study_isolate",0
+"115A1","con","16",-0.000333333333333333,-0.001,0,0.000333333333333333,"No FabV","azotifigens","study_isolate",16
+"115A1","con",".0625",0.338666666666667,0.304,0.368,0.0186666666666667,"No FabV","azotifigens","study_isolate",0.0625
+"115A1","inh",".25",0.00233333333333333,0.002,0.003,0.000333333333333333,"No FabV","azotifigens","study_isolate",0.25
+"115A1","con",".125",0.256,0.187,0.304,0.0353694783676548,"No FabV","azotifigens","study_isolate",0.125
+"119A3","inh","32",0.023,0.018,0.028,0.00288675134594813,"No FabV","japonica","study_isolate",32
+"119A3","inh",".5",0.005,0.001,0.011,0.00305505046330389,"No FabV","japonica","study_isolate",0.5
+"119A3","con",".25",0.0716666666666667,0.043,0.103,0.0173717522943938,"No FabV","japonica","study_isolate",0.25
+"119A3","con","4",0.002,0,0.003,0.001,"No FabV","japonica","study_isolate",4
+"119A3","inh","GC",0.00633333333333333,0.006,0.007,0.000333333333333333,"No FabV","japonica","study_isolate",0
+"119A3","con","8",0.00133333333333333,0,0.002,0.000666666666666667,"No FabV","japonica","study_isolate",8
+"119A3","inh","2",0.003,0.001,0.005,0.00115470053837925,"No FabV","japonica","study_isolate",2
+"119A3","con","32",0.00166666666666667,0.001,0.002,0.000333333333333333,"No FabV","japonica","study_isolate",32
+"119A3","inh","4",0.00233333333333333,0.002,0.003,0.000333333333333333,"No FabV","japonica","study_isolate",4
+"119A3","inh","1",0.00433333333333333,0.003,0.006,0.000881917103688197,"No FabV","japonica","study_isolate",1
+"119A3","con",".5",0.00633333333333333,0.005,0.009,0.00133333333333333,"No FabV","japonica","study_isolate",0.5
+"119A3","inh",".0625",0.00233333333333333,0,0.004,0.00120185042515466,"No FabV","japonica","study_isolate",0.0625
+"119A3","con","1",0.00466666666666667,0.004,0.005,0.000333333333333333,"No FabV","japonica","study_isolate",1
+"119A3","inh","8",-0.000333333333333333,-0.001,0,0.000333333333333333,"No FabV","japonica","study_isolate",8
+"119A3","con",".0625",0.394333333333333,0.367,0.434,0.0203005199714468,"No FabV","japonica","study_isolate",0.0625
+"119A3","con",".125",0.245333333333333,0.217,0.282,0.0192209376577847,"No FabV","japonica","study_isolate",0.125
+"119A3","inh",".125",0.00266666666666667,0.001,0.005,0.00120185042515466,"No FabV","japonica","study_isolate",0.125
+"119A3","con","2",0.00633333333333333,0.005,0.008,0.000881917103688197,"No FabV","japonica","study_isolate",2
+"119A3","inh","16",0,-0.001,0.001,0.000577350269189626,"No FabV","japonica","study_isolate",16
+"119A3","con","GC",0.592333333333333,0.56,0.637,0.0230675337023946,"No FabV","japonica","study_isolate",0
+"119A3","con","16",0.00233333333333333,0,0.007,0.00233333333333333,"No FabV","japonica","study_isolate",16
+"119A3","inh",".25",0.004,0.003,0.005,0.000577350269189626,"No FabV","japonica","study_isolate",0.25
+"20A1","inh","64",0.0363333333333333,0.027,0.047,0.00581186525805423,"FabV","capeferrum","study_isolate",64
+"20A1","inh","128",0.0593333333333333,0.019,0.129,0.0349777707186213,"FabV","capeferrum","study_isolate",128
+"20A1","con","32",0.246666666666667,0.002,0.387,0.122773956702733,"FabV","capeferrum","study_isolate",32
+"20A1","con","2",0.759666666666667,0.706,0.805,0.028880981823877,"FabV","capeferrum","study_isolate",2
+"20A1","con",".5",0.774333333333333,0.75,0.813,0.0195476625485276,"FabV","capeferrum","study_isolate",0.5
+"20A1","con","GC",0.837333333333333,0.768,0.885,0.0354698620114473,"FabV","capeferrum","study_isolate",0
+"20A1","inh","32",0.01,0.006,0.014,0.0023094010767585,"FabV","capeferrum","study_isolate",32
+"20A1","inh","2",0.001,0,0.002,0.000577350269189626,"FabV","capeferrum","study_isolate",2
+"20A1","con","64",0.153,0.065,0.308,0.0777367352028628,"FabV","capeferrum","study_isolate",64
+"20A1","con","16",0.216666666666667,0.053,0.317,0.0825274365152449,"FabV","capeferrum","study_isolate",16
+"20A1","con","1",0.827666666666667,0.768,0.919,0.0463764787125735,"FabV","capeferrum","study_isolate",1
+"20A1","con",".25",0.818333333333333,0.794,0.856,0.0190991564677024,"FabV","capeferrum","study_isolate",0.25
+"20A1","inh","16",0.000666666666666667,0,0.001,0.000333333333333333,"FabV","capeferrum","study_isolate",16
+"20A1","inh","1",0.00166666666666667,0,0.003,0.000881917103688197,"FabV","capeferrum","study_isolate",1
+"20A1","inh",".25",0.125666666666667,0.001,0.2,0.062717178224506,"FabV","capeferrum","study_isolate",0.25
+"20A1","con","8",0.424,0.364,0.506,0.042442117446392,"FabV","capeferrum","study_isolate",8
+"20A1","inh",".5",0.0536666666666667,0.001,0.105,0.0300296150121472,"FabV","capeferrum","study_isolate",0.5
+"20A1","inh","GC",0.162333333333333,0.003,0.266,0.0808627094387628,"FabV","capeferrum","study_isolate",0
+"20A1","con","4",0.683666666666667,0.566,0.756,0.0593473766152398,"FabV","capeferrum","study_isolate",4
+"20A1","inh","8",0,0,0,0,"FabV","capeferrum","study_isolate",8
+"20A1","inh","4",0.00166666666666667,0,0.004,0.00120185042515466,"FabV","capeferrum","study_isolate",4
+"20A1","con","128",0.076,0.058,0.095,0.0106926766215636,"FabV","capeferrum","study_isolate",128
+"31A8","con",".5",1.15666666666667,1.093,1.255,0.0498742864053656,"FabV","fulva","study_isolate",0.5
+"31A8","con","2",1.17833333333333,1.036,1.32,0.0819844158632874,"FabV","fulva","study_isolate",2
+"31A8","con","GC",1.27166666666667,1.118,1.362,0.0772276576824075,"FabV","fulva","study_isolate",0
+"31A8","con","1",1.17133333333333,1.111,1.257,0.0440088374963231,"FabV","fulva","study_isolate",1
+"31A8","con",".25",1.18966666666667,1.106,1.354,0.0821712304344478,"FabV","fulva","study_isolate",0.25
+"31A8","con","128",0.792,0.736,0.833,0.0289885034683292,"FabV","fulva","study_isolate",128
+"31A8","con","32",0.767666666666667,0.639,0.835,0.0643566451718684,"FabV","fulva","study_isolate",32
+"31A8","con","8",1.21633333333333,1.081,1.365,0.0822543480782492,"FabV","fulva","study_isolate",8
+"31A8","inh","128",0.0233333333333333,0.013,0.033,0.00578311719096582,"FabV","fulva","study_isolate",128
+"31A8","inh","32",0.014,0.006,0.028,0.00702376916856849,"FabV","fulva","study_isolate",32
+"31A8","inh","2",0.007,0.001,0.017,0.00503322295684717,"FabV","fulva","study_isolate",2
+"31A8","inh",".5",0.977333333333333,0.905,1.052,0.0424512792635406,"FabV","fulva","study_isolate",0.5
+"31A8","con","64",0.645,0.632,0.663,0.00929157324317754,"FabV","fulva","study_isolate",64
+"31A8","con","16",0.95,0.926,0.975,0.0141539158303747,"FabV","fulva","study_isolate",16
+"31A8","con","4",1.19166666666667,1.112,1.28,0.048690633368008,"FabV","fulva","study_isolate",4
+"31A8","inh","64",0.0446666666666667,0.036,0.06,0.00768837506311386,"FabV","fulva","study_isolate",64
+"31A8","inh","16",0.000666666666666667,0,0.001,0.000333333333333333,"FabV","fulva","study_isolate",16
+"31A8","inh","1",0.284333333333333,0.082,0.599,0.159464032865652,"FabV","fulva","study_isolate",1
+"31A8","inh",".25",0.997,0.982,1.012,0.0086602540378444,"FabV","fulva","study_isolate",0.25
+"31A8","inh","GC",1.051,0.995,1.12,0.0366651514838455,"FabV","fulva","study_isolate",0
+"31A8","inh","4",0.00133333333333333,0.001,0.002,0.000333333333333333,"FabV","fulva","study_isolate",4
+"31A8","inh","8",0.001,0,0.002,0.000577350269189626,"FabV","fulva","study_isolate",8
+"34A1","con","2",1.233,1.166,1.329,0.0492375195692607,"FabV","plecoglossicida","study_isolate",2
+"34A1","inh","2",0.000333333333333333,-0.001,0.001,0.000666666666666667,"FabV","plecoglossicida","study_isolate",2
+"34A1","con",".5",1.24133333333333,1.191,1.308,0.0347483013173946,"FabV","plecoglossicida","study_isolate",0.5
+"34A1","inh","128",0.032,0.021,0.041,0.00585946527708232,"FabV","plecoglossicida","study_isolate",128
+"34A1","con","1",1.21933333333333,1.164,1.308,0.0447859104828492,"FabV","plecoglossicida","study_isolate",1
+"34A1","con",".25",1.24666666666667,1.21,1.311,0.0322714183829041,"FabV","plecoglossicida","study_isolate",0.25
+"34A1","inh","64",0.0376666666666667,0.006,0.075,0.0201190898844301,"FabV","plecoglossicida","study_isolate",64
+"34A1","con","64",0.642,0.539,0.71,0.052373657500694,"FabV","plecoglossicida","study_isolate",64
+"34A1","inh","1",0.00366666666666667,-0.002,0.013,0.00470224532655529,"FabV","plecoglossicida","study_isolate",1
+"34A1","con","128",0.509,0.245,0.652,0.132152689466894,"FabV","plecoglossicida","study_isolate",128
+"34A1","con","32",0.822333333333333,0.692,0.904,0.0658592775882369,"FabV","plecoglossicida","study_isolate",32
+"34A1","con","8",1.191,1.149,1.25,0.0303699412797149,"FabV","plecoglossicida","study_isolate",8
+"34A1","con","GC",1.28766666666667,1.258,1.306,0.0149703410485904,"FabV","plecoglossicida","study_isolate",0
+"34A1","inh","32",0.00266666666666667,0,0.007,0.002185812841434,"FabV","plecoglossicida","study_isolate",32
+"34A1","inh","8",-0.001,-0.002,0.001,0.001,"FabV","plecoglossicida","study_isolate",8
+"34A1","inh",".5",0.289666666666667,0.006,0.784,0.248063387956475,"FabV","plecoglossicida","study_isolate",0.5
+"34A1","inh","GC",1.06366666666667,0.985,1.169,0.054764140741101,"FabV","plecoglossicida","study_isolate",0
+"34A1","con","16",1.05733333333333,1.035,1.09,0.0166966397151576,"FabV","plecoglossicida","study_isolate",16
+"34A1","con","4",1.20266666666667,1.126,1.298,0.0505217225007664,"FabV","plecoglossicida","study_isolate",4
+"34A1","inh","16",-0.001,-0.002,0,0.000577350269189626,"FabV","plecoglossicida","study_isolate",16
+"34A1","inh","4",0,-0.001,0.001,0.000577350269189626,"FabV","plecoglossicida","study_isolate",4
+"34A1","inh",".25",0.532666666666667,0.092,0.835,0.225362177641039,"FabV","plecoglossicida","study_isolate",0.25
+"39A1","con",".25",0.0466666666666667,0.026,0.083,0.0182239159104489,"No FabV","psychrotolerans","study_isolate",0.25
+"39A1","con","16",-0.000333333333333333,-0.001,0,0.000333333333333333,"No FabV","psychrotolerans","study_isolate",16
+"39A1","con","32",0.001,0,0.002,0.000577350269189626,"No FabV","psychrotolerans","study_isolate",32
+"39A1","inh","1",0.00166666666666667,0.001,0.002,0.000333333333333333,"No FabV","psychrotolerans","study_isolate",1
+"39A1","con",".0625",0.319,0.183,0.519,0.10213716267843,"No FabV","psychrotolerans","study_isolate",0.0625
+"39A1","inh",".5",0.000333333333333333,-0.001,0.001,0.000666666666666667,"No FabV","psychrotolerans","study_isolate",0.5
+"39A1","con","8",-0.000666666666666667,-0.002,0,0.000666666666666667,"No FabV","psychrotolerans","study_isolate",8
+"39A1","inh",".25",0.000666666666666667,0,0.002,0.000666666666666667,"No FabV","psychrotolerans","study_isolate",0.25
+"39A1","con","4",-0.000333333333333333,-0.001,0,0.000333333333333333,"No FabV","psychrotolerans","study_isolate",4
+"39A1","inh",".125",0,-0.001,0.001,0.000577350269189626,"No FabV","psychrotolerans","study_isolate",0.125
+"39A1","con","1",0,-0.002,0.001,0.001,"No FabV","psychrotolerans","study_isolate",1
+"39A1","inh","GC",0.356,0.299,0.442,0.0437530951286116,"No FabV","psychrotolerans","study_isolate",0
+"39A1","con",".5",0.00166666666666667,-0.001,0.005,0.00176383420737639,"No FabV","psychrotolerans","study_isolate",0.5
+"39A1","con","GC",0.216666666666667,0.16,0.299,0.0421281114907585,"No FabV","psychrotolerans","study_isolate",0
+"39A1","con",".125",0.191333333333333,0.066,0.438,0.123338738620291,"No FabV","psychrotolerans","study_isolate",0.125
+"39A1","inh","16",-0.000333333333333333,-0.001,0.001,0.000666666666666667,"No FabV","psychrotolerans","study_isolate",16
+"39A1","con","2",0.000333333333333333,-0.001,0.001,0.000666666666666667,"No FabV","psychrotolerans","study_isolate",2
+"39A1","inh",".0625",0.000666666666666667,0,0.001,0.000333333333333333,"No FabV","psychrotolerans","study_isolate",0.0625
+"39A1","inh","4",0,0,0,0,"No FabV","psychrotolerans","study_isolate",4
+"39A1","inh","2",0,0,0,0,"No FabV","psychrotolerans","study_isolate",2
+"39A1","inh","8",0.000333333333333333,0,0.001,0.000333333333333333,"No FabV","psychrotolerans","study_isolate",8
+"39A1","inh","32",0.0133333333333333,0.001,0.026,0.00721880260923591,"No FabV","psychrotolerans","study_isolate",32
+"45C2","con","32",0.00133333333333333,0.001,0.002,0.000333333333333333,"No FabV","viridiflava","study_isolate",32
+"45C2","con",".125",0.0496666666666667,0.001,0.122,0.0368796842599162,"No FabV","viridiflava","study_isolate",0.125
+"45C2","inh","16",-0.00133333333333333,-0.002,-0.001,0.000333333333333333,"No FabV","viridiflava","study_isolate",16
+"45C2","inh","2",0.002,0.001,0.003,0.000577350269189626,"No FabV","viridiflava","study_isolate",2
+"45C2","inh","32",0.009,0.005,0.014,0.00264575131106459,"No FabV","viridiflava","study_isolate",32
+"45C2","inh",".125",0.000333333333333333,0,0.001,0.000333333333333333,"No FabV","viridiflava","study_isolate",0.125
+"45C2","inh",".5",0.000666666666666667,0,0.002,0.000666666666666667,"No FabV","viridiflava","study_isolate",0.5
+"45C2","inh",".25",0.000333333333333333,0,0.001,0.000333333333333333,"No FabV","viridiflava","study_isolate",0.25
+"45C2","con","8",0.000333333333333333,0,0.001,0.000333333333333333,"No FabV","viridiflava","study_isolate",8
+"45C2","inh","1",0.00366666666666667,0.002,0.005,0.000881917103688197,"No FabV","viridiflava","study_isolate",1
+"45C2","con",".5",0.00266666666666667,0,0.005,0.00145296631451356,"No FabV","viridiflava","study_isolate",0.5
+"45C2","inh","8",0.000333333333333333,-0.001,0.002,0.000881917103688197,"No FabV","viridiflava","study_isolate",8
+"45C2","con","16",-0.000333333333333333,-0.001,0,0.000333333333333333,"No FabV","viridiflava","study_isolate",16
+"45C2","con",".25",0.026,0.005,0.062,0.0180831413200251,"No FabV","viridiflava","study_isolate",0.25
+"45C2","con","GC",0.462333333333333,0.376,0.576,0.0593305242780739,"No FabV","viridiflava","study_isolate",0
+"45C2","con","2",0.00366666666666667,0.001,0.006,0.00145296631451356,"No FabV","viridiflava","study_isolate",2
+"45C2","con",".0625",0.0876666666666667,0.002,0.215,0.0649213199016916,"No FabV","viridiflava","study_isolate",0.0625
+"45C2","inh","4",0.002,0,0.003,0.001,"No FabV","viridiflava","study_isolate",4
+"45C2","inh","GC",0.151666666666667,0.135,0.172,0.0108371788046726,"No FabV","viridiflava","study_isolate",0
+"45C2","con","4",0.00366666666666667,0.001,0.006,0.00145296631451356,"No FabV","viridiflava","study_isolate",4
+"45C2","con","1",0.003,0,0.005,0.00152752523165195,"No FabV","viridiflava","study_isolate",1
+"45C2","inh",".0625",-0.000666666666666667,-0.002,0,0.000666666666666667,"No FabV","viridiflava","study_isolate",0.0625
+"4A7","con","2",0.857333333333333,0.729,0.942,0.0652490953534564,"FabV","entomophila","study_isolate",2
+"4A7","con","128",0.212666666666667,0.074,0.424,0.107370593946594,"FabV","entomophila","study_isolate",128
+"4A7","con","1",0.840333333333333,0.718,0.985,0.0778809632994125,"FabV","entomophila","study_isolate",1
+"4A7","inh","2",0.000333333333333333,0,0.001,0.000333333333333333,"FabV","entomophila","study_isolate",2
+"4A7","con","64",0.584,0.547,0.615,0.0198578280114753,"FabV","entomophila","study_isolate",64
+"4A7","con","16",0.539666666666667,0.415,0.625,0.0637320780908467,"FabV","entomophila","study_isolate",16
+"4A7","inh","1",0.0163333333333333,0,0.042,0.0129914501799367,"FabV","entomophila","study_isolate",1
+"4A7","con","32",0.520666666666667,0.431,0.586,0.0463692906039235,"FabV","entomophila","study_isolate",32
+"4A7","con","8",0.640333333333333,0.492,0.778,0.0827331721728218,"FabV","entomophila","study_isolate",8
+"4A7","con",".5",0.826,0.709,0.971,0.0769177049406268,"FabV","entomophila","study_isolate",0.5
+"4A7","inh","128",0.0336666666666667,0.012,0.07,0.0182787064944736,"FabV","entomophila","study_isolate",128
+"4A7","inh","32",0.00666666666666667,0.001,0.017,0.00517472489875334,"FabV","entomophila","study_isolate",32
+"4A7","inh","8",0.000333333333333333,0,0.001,0.000333333333333333,"FabV","entomophila","study_isolate",8
+"4A7","inh",".5",0.558666666666667,0.364,0.772,0.118148682223337,"FabV","entomophila","study_isolate",0.5
+"4A7","inh","GC",0.722,0.614,0.836,0.0641560597293818,"FabV","entomophila","study_isolate",0
+"4A7","con","4",0.904,0.815,1.013,0.058025856305616,"FabV","entomophila","study_isolate",4
+"4A7","con",".25",0.884,0.714,1.134,0.127671453348037,"FabV","entomophila","study_isolate",0.25
+"4A7","inh","64",0.0266666666666667,0.016,0.048,0.0106666666666667,"FabV","entomophila","study_isolate",64
+"4A7","inh","16",0.000333333333333333,-0.001,0.002,0.000881917103688197,"FabV","entomophila","study_isolate",16
+"4A7","inh","4",0,0,0,0,"FabV","entomophila","study_isolate",4
+"4A7","inh",".25",0.694,0.466,0.841,0.115581140330073,"FabV","entomophila","study_isolate",0.25
+"4A7","con","GC",0.941,0.821,1.089,0.078621455934963,"FabV","entomophila","study_isolate",0
+"56A10","inh","128",0.039,0.013,0.086,0.0235442845152137,"FabV","fulva","study_isolate",128
+"56A10","inh","32",0.00433333333333333,0.001,0.007,0.00176383420737639,"FabV","fulva","study_isolate",32
+"56A10","inh",".25",0.135333333333333,0.034,0.247,0.0617044929032274,"FabV","fulva","study_isolate",0.25
+"56A10","inh","16",-0.000333333333333333,-0.001,0,0.000333333333333333,"FabV","fulva","study_isolate",16
+"56A10","con","64",0.416333333333333,0.414,0.42,0.00185592145427668,"FabV","fulva","study_isolate",64
+"56A10","inh","GC",0.185333333333333,0.107,0.295,0.0564869699822692,"FabV","fulva","study_isolate",0
+"56A10","inh","1",0.041,0.008,0.096,0.0276827262626594,"FabV","fulva","study_isolate",1
+"56A10","inh","8",0.000333333333333333,0,0.001,0.000333333333333333,"FabV","fulva","study_isolate",8
+"56A10","inh","64",0.00766666666666667,0.004,0.011,0.00202758751009941,"FabV","fulva","study_isolate",64
+"56A10","inh",".5",0.125666666666667,0.061,0.229,0.0522089817730415,"FabV","fulva","study_isolate",0.5
+"56A10","inh","4",0.000333333333333333,0,0.001,0.000333333333333333,"FabV","fulva","study_isolate",4
+"56A10","con","128",0.500333333333333,0.382,0.579,0.060228269479078,"FabV","fulva","study_isolate",128
+"56A10","con","GC",1.337,1.321,1.353,0.00923760430703409,"FabV","fulva","study_isolate",0
+"56A10","con",".25",1.31933333333333,1.28,1.347,0.0202017600993357,"FabV","fulva","study_isolate",0.25
+"56A10","inh","2",0.005,0,0.012,0.00360555127546399,"FabV","fulva","study_isolate",2
+"56A10","con","8",1.14466666666667,1.062,1.243,0.0528341219709805,"FabV","fulva","study_isolate",8
+"56A10","con","32",0.404333333333333,0.353,0.444,0.0269093127208985,"FabV","fulva","study_isolate",32
+"56A10","con",".5",1.31,1.274,1.337,0.0187349939951952,"FabV","fulva","study_isolate",0.5
+"56A10","con","4",1.29033333333333,1.253,1.33,0.0222585813663955,"FabV","fulva","study_isolate",4
+"56A10","con","16",0.609333333333333,0.519,0.691,0.0498408578488684,"FabV","fulva","study_isolate",16
+"56A10","con","2",1.30766666666667,1.232,1.355,0.038228843095815,"FabV","fulva","study_isolate",2
+"56A10","con","1",1.31666666666667,1.254,1.355,0.0315928965293009,"FabV","fulva","study_isolate",1
+"57B2","inh","1",0.000666666666666667,0,0.001,0.000333333333333333,"No FabV","kunmingensis","study_isolate",1
+"57B2","con",".0625",0.531333333333333,0.467,0.635,0.0523333333333333,"No FabV","kunmingensis","study_isolate",0.0625
+"57B2","con","4",0.006,0.002,0.01,0.0023094010767585,"No FabV","kunmingensis","study_isolate",4
+"57B2","con",".25",0.248333333333333,0.15,0.348,0.0571615643981552,"No FabV","kunmingensis","study_isolate",0.25
+"57B2","con",".125",0.434666666666667,0.29,0.624,0.0989702536680144,"No FabV","kunmingensis","study_isolate",0.125
+"57B2","inh","16",0.000333333333333333,0,0.001,0.000333333333333333,"No FabV","kunmingensis","study_isolate",16
+"57B2","con","32",-0.000333333333333333,-0.001,0,0.000333333333333333,"No FabV","kunmingensis","study_isolate",32
+"57B2","con","GC",0.513666666666667,0.434,0.642,0.064787687444795,"No FabV","kunmingensis","study_isolate",0
+"57B2","inh","32",0.0283333333333333,0.002,0.048,0.0136910351852752,"No FabV","kunmingensis","study_isolate",32
+"57B2","con","8",0.000666666666666667,0,0.001,0.000333333333333333,"No FabV","kunmingensis","study_isolate",8
+"57B2","con",".5",0.136666666666667,0.1,0.202,0.032748197575507,"No FabV","kunmingensis","study_isolate",0.5
+"57B2","con","1",0.0703333333333333,0.032,0.09,0.0191688404564398,"No FabV","kunmingensis","study_isolate",1
+"57B2","inh","GC",0.306,0.225,0.348,0.0405092582010582,"No FabV","kunmingensis","study_isolate",0
+"57B2","inh",".0625",0.00233333333333333,0,0.004,0.00120185042515466,"No FabV","kunmingensis","study_isolate",0.0625
+"57B2","inh",".25",0.000333333333333333,0,0.001,0.000333333333333333,"No FabV","kunmingensis","study_isolate",0.25
+"57B2","con","16",-0.000333333333333333,-0.002,0.001,0.000881917103688197,"No FabV","kunmingensis","study_isolate",16
+"57B2","inh",".5",0.000666666666666667,0,0.001,0.000333333333333333,"No FabV","kunmingensis","study_isolate",0.5
+"57B2","inh","4",0.000333333333333333,0,0.001,0.000333333333333333,"No FabV","kunmingensis","study_isolate",4
+"57B2","inh","8",0.000333333333333333,0,0.001,0.000333333333333333,"No FabV","kunmingensis","study_isolate",8
+"57B2","con","2",0.0296666666666667,0.006,0.042,0.0118368539363765,"No FabV","kunmingensis","study_isolate",2
+"57B2","inh","2",0.001,0,0.002,0.000577350269189626,"No FabV","kunmingensis","study_isolate",2
+"57B2","inh",".125",0.000666666666666667,-0.001,0.002,0.000881917103688197,"No FabV","kunmingensis","study_isolate",0.125
+"62A4","con","32",0.0166666666666667,-0.001,0.051,0.0171690936795679,"No FabV","stutzeri","study_isolate",32
+"62A4","inh","1",0.000666666666666667,0,0.001,0.000333333333333333,"No FabV","stutzeri","study_isolate",1
+"62A4","con","1",0.001,0,0.002,0.000577350269189626,"No FabV","stutzeri","study_isolate",1
+"62A4","inh","GC",0.041,0.016,0.075,0.0176162803489651,"No FabV","stutzeri","study_isolate",0
+"62A4","con",".25",0.09,0.058,0.133,0.0223383079036887,"No FabV","stutzeri","study_isolate",0.25
+"62A4","con","8",-0.000333333333333333,-0.001,0,0.000333333333333333,"No FabV","stutzeri","study_isolate",8
+"62A4","inh",".25",0,0,0,0,"No FabV","stutzeri","study_isolate",0.25
+"62A4","con","4",-0.000333333333333333,-0.001,0,0.000333333333333333,"No FabV","stutzeri","study_isolate",4
+"62A4","con","16",-0.000666666666666667,-0.002,0,0.000666666666666667,"No FabV","stutzeri","study_isolate",16
+"62A4","con","2",0.000666666666666667,-0.001,0.002,0.000881917103688197,"No FabV","stutzeri","study_isolate",2
+"62A4","con",".5",0.00966666666666667,0.005,0.017,0.00371184290855335,"No FabV","stutzeri","study_isolate",0.5
+"62A4","inh","8",0,0,0,0,"No FabV","stutzeri","study_isolate",8
+"62A4","inh","4",0.000333333333333333,0,0.001,0.000333333333333333,"No FabV","stutzeri","study_isolate",4
+"62A4","inh",".0625",-0.000333333333333333,-0.001,0,0.000333333333333333,"No FabV","stutzeri","study_isolate",0.0625
+"62A4","inh","16",-0.000333333333333333,-0.001,0,0.000333333333333333,"No FabV","stutzeri","study_isolate",16
+"62A4","inh",".125",0.000666666666666667,0,0.001,0.000333333333333333,"No FabV","stutzeri","study_isolate",0.125
+"62A4","inh",".5",0.000333333333333333,0,0.001,0.000333333333333333,"No FabV","stutzeri","study_isolate",0.5
+"62A4","inh","2",0.00333333333333333,0,0.009,0.00284800124843918,"No FabV","stutzeri","study_isolate",2
+"62A4","con",".125",0.239333333333333,0.194,0.311,0.0362506704918835,"No FabV","stutzeri","study_isolate",0.125
+"62A4","inh","32",0.00633333333333333,0.003,0.012,0.00284800124843918,"No FabV","stutzeri","study_isolate",32
+"62A4","con","GC",0.378333333333333,0.269,0.556,0.089618326498794,"No FabV","stutzeri","study_isolate",0
+"62A4","con",".0625",0.302,0.231,0.42,0.0594053869611166,"No FabV","stutzeri","study_isolate",0.0625
+"66C3","inh","16",-0.001,-0.001,-0.001,0,"No FabV","japonica","study_isolate",16
+"66C3","con",".125",0.203666666666667,0.196,0.216,0.00622718056408982,"No FabV","japonica","study_isolate",0.125
+"66C3","inh","32",0.02,0.017,0.023,0.00173205080756888,"No FabV","japonica","study_isolate",32
+"66C3","con",".5",0.0113333333333333,0.009,0.015,0.00185592145427667,"No FabV","japonica","study_isolate",0.5
+"66C3","con","2",0.00333333333333333,0.001,0.006,0.00145296631451356,"No FabV","japonica","study_isolate",2
+"66C3","inh","GC",0.00533333333333333,0.004,0.007,0.000881917103688197,"No FabV","japonica","study_isolate",0
+"66C3","con",".25",0.0943333333333333,0.09,0.1,0.00296273147243853,"No FabV","japonica","study_isolate",0.25
+"66C3","inh","1",0.00433333333333333,0.003,0.006,0.000881917103688197,"No FabV","japonica","study_isolate",1
+"66C3","con","GC",0.507333333333333,0.477,0.543,0.0192382720406774,"No FabV","japonica","study_isolate",0
+"66C3","inh",".5",0.003,0.002,0.005,0.001,"No FabV","japonica","study_isolate",0.5
+"66C3","con","8",0.000333333333333333,0,0.001,0.000333333333333333,"No FabV","japonica","study_isolate",8
+"66C3","con","1",0.00366666666666667,0.002,0.005,0.000881917103688197,"No FabV","japonica","study_isolate",1
+"66C3","con","32",0.001,0,0.002,0.000577350269189626,"No FabV","japonica","study_isolate",32
+"66C3","inh","2",0.00233333333333333,0.002,0.003,0.000333333333333333,"No FabV","japonica","study_isolate",2
+"66C3","inh","4",0.00366666666666667,0.001,0.008,0.002185812841434,"No FabV","japonica","study_isolate",4
+"66C3","inh",".0625",0.004,0.001,0.009,0.00251661147842358,"No FabV","japonica","study_isolate",0.0625
+"66C3","inh","8",-0.000333333333333333,-0.001,0,0.000333333333333333,"No FabV","japonica","study_isolate",8
+"66C3","con",".0625",0.319333333333333,0.261,0.394,0.039252742296275,"No FabV","japonica","study_isolate",0.0625
+"66C3","con","16",0,0,0,0,"No FabV","japonica","study_isolate",16
+"66C3","inh",".25",0.00533333333333333,0.002,0.011,0.00284800124843918,"No FabV","japonica","study_isolate",0.25
+"66C3","inh",".125",0.00233333333333333,0,0.005,0.00145296631451356,"No FabV","japonica","study_isolate",0.125
+"66C3","con","4",0.000666666666666667,0,0.001,0.000333333333333333,"No FabV","japonica","study_isolate",4
+"69C1","con",".125",0.232333333333333,0.162,0.343,0.0560069440139147,"No FabV","stutzeri","study_isolate",0.125
+"69C1","inh","1",0.000666666666666667,0,0.002,0.000666666666666667,"No FabV","stutzeri","study_isolate",1
+"69C1","con",".5",0.0323333333333333,0.027,0.039,0.00352766841475279,"No FabV","stutzeri","study_isolate",0.5
+"69C1","con","2",0.00333333333333333,0.002,0.005,0.000881917103688197,"No FabV","stutzeri","study_isolate",2
+"69C1","inh",".5",0.000666666666666667,-0.001,0.002,0.000881917103688197,"No FabV","stutzeri","study_isolate",0.5
+"69C1","con",".25",0.0916666666666667,0.076,0.104,0.0082529456020933,"No FabV","stutzeri","study_isolate",0.25
+"69C1","inh","4",0,-0.001,0.001,0.000577350269189626,"No FabV","stutzeri","study_isolate",4
+"69C1","con","GC",0.574,0.544,0.609,0.0189296944860009,"No FabV","stutzeri","study_isolate",0
+"69C1","inh","GC",0.169333333333333,0.156,0.19,0.0104774890970011,"No FabV","stutzeri","study_isolate",0
+"69C1","con","1",0.009,0.007,0.012,0.00152752523165195,"No FabV","stutzeri","study_isolate",1
+"69C1","inh","32",0.00466666666666667,0.002,0.008,0.00176383420737639,"No FabV","stutzeri","study_isolate",32
+"69C1","inh","8",-0.001,-0.001,-0.001,0,"No FabV","stutzeri","study_isolate",8
+"69C1","inh","16",-0.001,-0.001,-0.001,0,"No FabV","stutzeri","study_isolate",16
+"69C1","con","4",0.00366666666666667,0.001,0.007,0.00176383420737639,"No FabV","stutzeri","study_isolate",4
+"69C1","con","8",0.000666666666666667,0,0.001,0.000333333333333333,"No FabV","stutzeri","study_isolate",8
+"69C1","con","32",0.00166666666666667,0.001,0.003,0.000666666666666667,"No FabV","stutzeri","study_isolate",32
+"69C1","inh","2",0,-0.001,0.001,0.000577350269189626,"No FabV","stutzeri","study_isolate",2
+"69C1","con",".0625",0.334333333333333,0.214,0.436,0.0647619572828919,"No FabV","stutzeri","study_isolate",0.0625
+"69C1","con","16",0.00133333333333333,0,0.004,0.00133333333333333,"No FabV","stutzeri","study_isolate",16
+"69C1","inh",".125",-0.000333333333333333,-0.001,0,0.000333333333333333,"No FabV","stutzeri","study_isolate",0.125
+"69C1","inh",".25",0.000666666666666667,0,0.001,0.000333333333333333,"No FabV","stutzeri","study_isolate",0.25
+"69C1","inh",".0625",-0.000333333333333333,-0.001,0,0.000333333333333333,"No FabV","stutzeri","study_isolate",0.0625
+"6C6","con","32",0.126666666666667,0,0.349,0.111526279912454,"FabV","entomophila","study_isolate",32
+"6C6","inh","128",0.0443333333333333,0.008,0.08,0.0207872824368918,"FabV","entomophila","study_isolate",128
+"6C6","inh","32",0.0176666666666667,0.008,0.026,0.00523874454850057,"FabV","entomophila","study_isolate",32
+"6C6","con","8",0.181,0,0.304,0.092424744161579,"FabV","entomophila","study_isolate",8
+"6C6","con","64",0.025,0,0.058,0.0172143351115671,"FabV","entomophila","study_isolate",64
+"6C6","con","16",0.182,0,0.284,0.0912213425319609,"FabV","entomophila","study_isolate",16
+"6C6","con","4",0.223,-0.001,0.387,0.115954013873317,"FabV","entomophila","study_isolate",4
+"6C6","inh","8",0.003,0.002,0.005,0.001,"FabV","entomophila","study_isolate",8
+"6C6","inh","64",0.0436666666666667,0.024,0.055,0.00987139526330723,"FabV","entomophila","study_isolate",64
+"6C6","inh","16",0.002,0.001,0.003,0.000577350269189626,"FabV","entomophila","study_isolate",16
+"6C6","inh","4",0.023,0.004,0.051,0.0142945210949277,"FabV","entomophila","study_isolate",4
+"6C6","con","128",0.0456666666666667,0.007,0.072,0.0197512306227007,"FabV","entomophila","study_isolate",128
+"6C6","con","2",0.282,-0.001,0.437,0.141714501727946,"FabV","entomophila","study_isolate",2
+"6C6","con",".5",0.297333333333333,-0.001,0.533,0.157304729038188,"FabV","entomophila","study_isolate",0.5
+"6C6","con","GC",0.278666666666667,0,0.569,0.164359700386412,"FabV","entomophila","study_isolate",0
+"6C6","con","1",0.285,0,0.51,0.150249792013167,"FabV","entomophila","study_isolate",1
+"6C6","inh","2",0.0793333333333333,0.005,0.131,0.0380978272929631,"FabV","entomophila","study_isolate",2
+"6C6","inh",".5",0.257666666666667,0.233,0.283,0.0144376052184718,"FabV","entomophila","study_isolate",0.5
+"6C6","inh","GC",0.281,0.257,0.328,0.0235017729827631,"FabV","entomophila","study_isolate",0
+"6C6","inh","1",0.135333333333333,0.062,0.199,0.0398427464470566,"FabV","entomophila","study_isolate",1
+"6C6","con",".25",0.292333333333333,-0.001,0.568,0.164493498689496,"FabV","entomophila","study_isolate",0.25
+"6C6","inh",".25",0.262333333333333,0.239,0.298,0.0181138375589247,"FabV","entomophila","study_isolate",0.25
+"82B1","con","128",0.355666666666667,0.348,0.365,0.00497772817435603,"FabV","fulva","study_isolate",128
+"82B1","inh","128",0.0356666666666667,0.022,0.059,0.0117236702633793,"FabV","fulva","study_isolate",128
+"82B1","con","64",0.462,0.445,0.486,0.0123423390543824,"FabV","fulva","study_isolate",64
+"82B1","inh","64",0.0163333333333333,0.013,0.019,0.00176383420737639,"FabV","fulva","study_isolate",64
+"82B1","con","32",0.562333333333333,0.544,0.576,0.00952773728530431,"FabV","fulva","study_isolate",32
+"82B1","inh","32",0.0106666666666667,0.009,0.012,0.000881917103688197,"FabV","fulva","study_isolate",32
+"82B1","con","16",0.734,0.7,0.774,0.0215715862498179,"FabV","fulva","study_isolate",16
+"82B1","inh","16",0.00133333333333333,0.001,0.002,0.000333333333333333,"FabV","fulva","study_isolate",16
+"82B1","con","8",0.826666666666667,0.761,0.866,0.0330471044285443,"FabV","fulva","study_isolate",8
+"82B1","inh","8",0.001,0,0.002,0.000577350269189626,"FabV","fulva","study_isolate",8
+"82B1","con","4",0.857666666666667,0.825,0.876,0.0163740987877535,"FabV","fulva","study_isolate",4
+"82B1","inh","4",0.229,0.045,0.415,0.106814480915901,"FabV","fulva","study_isolate",4
+"82B1","con","2",0.886666666666667,0.858,0.901,0.0143333333333333,"FabV","fulva","study_isolate",2
+"82B1","inh","2",0.595333333333333,0.549,0.651,0.0298123762517814,"FabV","fulva","study_isolate",2
+"82B1","con","1",0.863666666666667,0.794,0.933,0.040126189840441,"FabV","fulva","study_isolate",1
+"82B1","inh","1",0.647333333333333,0.628,0.667,0.0112595638360364,"FabV","fulva","study_isolate",1
+"82B1","con","0.5",0.839,0.769,0.878,0.0350761077278157,"FabV","fulva","study_isolate",0.5
+"82B1","inh","0.5",0.636,0.579,0.702,0.0357910603363466,"FabV","fulva","study_isolate",0.5
+"82B1","con","0.25",0.802333333333333,0.738,0.857,0.0346906967996384,"FabV","fulva","study_isolate",0.25
+"82B1","inh","0.25",0.625333333333333,0.598,0.649,0.0148361420561786,"FabV","fulva","study_isolate",0.25
+"82B1","con","GC",0.806666666666667,0.718,0.884,0.0482539578111935,"FabV","fulva","study_isolate",0
+"82B1","inh","GC",0.689,0.628,0.798,0.0546290520998977,"FabV","fulva","study_isolate",0
+"88B1","con","128",0.617333333333333,0.607,0.634,0.00841295297608265,"FabV","plecoglossicida","study_isolate",128
+"88B1","inh","64",0.0413333333333333,0.031,0.059,0.00887568463712956,"FabV","plecoglossicida","study_isolate",64
+"88B1","con","64",0.61,0.508,0.733,0.0657951365983839,"FabV","plecoglossicida","study_isolate",64
+"88B1","inh","32",0.0113333333333333,0.005,0.021,0.00491030662088541,"FabV","plecoglossicida","study_isolate",32
+"88B1","con","32",0.745333333333333,0.615,0.819,0.0653511880364679,"FabV","plecoglossicida","study_isolate",32
+"88B1","inh","16",0.00133333333333333,0,0.003,0.000881917103688197,"FabV","plecoglossicida","study_isolate",16
+"88B1","con","8",1.056,0.963,1.145,0.0525769277662107,"FabV","plecoglossicida","study_isolate",8
+"88B1","con","16",0.919333333333333,0.793,1,0.063969610840704,"FabV","plecoglossicida","study_isolate",16
+"88B1","inh","128",0.0236666666666667,0.012,0.039,0.00800694143297621,"FabV","plecoglossicida","study_isolate",128
+"88B1","inh","1",0.175333333333333,0.001,0.522,0.173334294869128,"FabV","plecoglossicida","study_isolate",1
+"88B1","inh","8",0.001,0,0.002,0.000577350269189626,"FabV","plecoglossicida","study_isolate",8
+"88B1","con","4",1.09866666666667,0.937,1.192,0.0811548588262656,"FabV","plecoglossicida","study_isolate",4
+"88B1","inh",".5",0.289333333333333,0.066,0.574,0.149819150237137,"FabV","plecoglossicida","study_isolate",0.5
+"88B1","inh","4",0.002,0.001,0.003,0.000577350269189626,"FabV","plecoglossicida","study_isolate",4
+"88B1","con","2",1.16633333333333,1.151,1.178,0.00800694143297618,"FabV","plecoglossicida","study_isolate",2
+"88B1","inh",".25",0.552666666666667,0.386,0.665,0.0849986928004059,"FabV","plecoglossicida","study_isolate",0.25
+"88B1","inh","2",0.0353333333333333,0.001,0.103,0.0338345648380141,"FabV","plecoglossicida","study_isolate",2
+"88B1","con","1",1.149,1.103,1.194,0.0262741951985847,"FabV","plecoglossicida","study_isolate",1
+"88B1","inh","GC",0.977333333333333,0.743,1.095,0.117167022284904,"FabV","plecoglossicida","study_isolate",0
+"88B1","con",".5",1.15333333333333,1.111,1.188,0.0225561028942896,"FabV","plecoglossicida","study_isolate",0.5
+"88B1","con",".25",1.17266666666667,1.143,1.199,0.0162514956576652,"FabV","plecoglossicida","study_isolate",0.25
+"88B1","con","GC",1.163,1.134,1.204,0.0210792156716832,"FabV","plecoglossicida","study_isolate",0
+"89C1","con","32",0.00133333333333333,-0.001,0.004,0.00145296631451356,"No FabV","zeshuii","study_isolate",32
+"89C1","inh","32",0.00366666666666667,0.002,0.005,0.000881917103688197,"No FabV","zeshuii","study_isolate",32
+"89C1","con","16",0,-0.001,0.001,0.000577350269189626,"No FabV","zeshuii","study_isolate",16
+"89C1","inh","16",0.000666666666666667,0,0.001,0.000333333333333333,"No FabV","zeshuii","study_isolate",16
+"89C1","con","8",-0.000333333333333333,-0.002,0.001,0.000881917103688197,"No FabV","zeshuii","study_isolate",8
+"89C1","inh","8",0.000666666666666667,0,0.001,0.000333333333333333,"No FabV","zeshuii","study_isolate",8
+"89C1","con","4",-0.001,-0.002,0,0.000577350269189626,"No FabV","zeshuii","study_isolate",4
+"89C1","inh","4",0.001,0,0.002,0.000577350269189626,"No FabV","zeshuii","study_isolate",4
+"89C1","con","2",0,-0.002,0.002,0.00115470053837925,"No FabV","zeshuii","study_isolate",2
+"89C1","inh","2",0.001,0,0.002,0.000577350269189626,"No FabV","zeshuii","study_isolate",2
+"89C1","con","1",0.000666666666666667,-0.001,0.003,0.00120185042515466,"No FabV","zeshuii","study_isolate",1
+"89C1","inh","1",0.002,0,0.004,0.00115470053837925,"No FabV","zeshuii","study_isolate",1
+"89C1","con","0.5",0.00133333333333333,0.001,0.002,0.000333333333333333,"No FabV","zeshuii","study_isolate",0.5
+"89C1","inh","0.5",0.001,-0.001,0.003,0.00115470053837925,"No FabV","zeshuii","study_isolate",0.5
+"89C1","con","0.25",0.00333333333333333,0.002,0.005,0.000881917103688197,"No FabV","zeshuii","study_isolate",0.25
+"89C1","inh","0.25",0.000666666666666667,-0.001,0.002,0.000881917103688197,"No FabV","zeshuii","study_isolate",0.25
+"89C1","con","0.125",0.0173333333333333,0.015,0.021,0.00185592145427667,"No FabV","zeshuii","study_isolate",0.125
+"89C1","inh","0.125",0.002,0,0.004,0.00115470053837925,"No FabV","zeshuii","study_isolate",0.125
+"89C1","con","0.0625",0.079,0.058,0.097,0.0113578166916005,"No FabV","zeshuii","study_isolate",0.0625
+"89C1","inh","0.0625",0.001,0,0.002,0.000577350269189626,"No FabV","zeshuii","study_isolate",0.0625
+"89C1","con","GC",0.660333333333333,0.521,0.817,0.0858862296555417,"No FabV","zeshuii","study_isolate",0
+"89C1","inh","GC",0.602333333333333,0.501,0.696,0.0564220209177626,"No FabV","zeshuii","study_isolate",0
+"8A1","con","32",0.00233333333333333,0.001,0.004,0.000881917103688197,"No FabV","stutzeri","study_isolate",32
+"8A1","con",".0625",0.647333333333333,0.573,0.735,0.0472381672426487,"No FabV","stutzeri","study_isolate",0.0625
+"8A1","con",".25",0.118,0.107,0.137,0.00953939201416945,"No FabV","stutzeri","study_isolate",0.25
+"8A1","inh","16",-0.001,-0.002,0,0.000577350269189626,"No FabV","stutzeri","study_isolate",16
+"8A1","con","1",0.00333333333333333,0.001,0.005,0.00120185042515466,"No FabV","stutzeri","study_isolate",1
+"8A1","con","4",0,-0.001,0.001,0.000577350269189626,"No FabV","stutzeri","study_isolate",4
+"8A1","con","16",-0.00133333333333333,-0.002,-0.001,0.000333333333333333,"No FabV","stutzeri","study_isolate",16
+"8A1","con","GC",0.944333333333333,0.874,1.033,0.0468057451364442,"No FabV","stutzeri","study_isolate",0
+"8A1","con",".125",0.360666666666667,0.301,0.433,0.0386278540836934,"No FabV","stutzeri","study_isolate",0.125
+"8A1","inh","8",0,-0.001,0.002,0.001,"No FabV","stutzeri","study_isolate",8
+"8A1","inh","32",0.005,0,0.01,0.00288675134594813,"No FabV","stutzeri","study_isolate",32
+"8A1","con","2",0.000666666666666667,-0.001,0.002,0.000881917103688197,"No FabV","stutzeri","study_isolate",2
+"8A1","con","8",-0.000333333333333333,-0.001,0,0.000333333333333333,"No FabV","stutzeri","study_isolate",8
+"8A1","inh","1",0.000666666666666667,0,0.001,0.000333333333333333,"No FabV","stutzeri","study_isolate",1
+"8A1","inh","4",-0.00133333333333333,-0.002,-0.001,0.000333333333333333,"No FabV","stutzeri","study_isolate",4
+"8A1","inh",".5",0.000333333333333333,0,0.001,0.000333333333333333,"No FabV","stutzeri","study_isolate",0.5
+"8A1","inh","2",-0.000333333333333333,-0.001,0,0.000333333333333333,"No FabV","stutzeri","study_isolate",2
+"8A1","inh","GC",0.137666666666667,0.108,0.184,0.0234686552187759,"No FabV","stutzeri","study_isolate",0
+"8A1","inh",".125",-0.000333333333333333,-0.001,0,0.000333333333333333,"No FabV","stutzeri","study_isolate",0.125
+"8A1","inh",".0625",-0.000333333333333333,-0.001,0,0.000333333333333333,"No FabV","stutzeri","study_isolate",0.0625
+"8A1","inh",".25",-0.000666666666666667,-0.001,0,0.000333333333333333,"No FabV","stutzeri","study_isolate",0.25
+"8A1","con",".5",0.015,0.014,0.017,0.001,"No FabV","stutzeri","study_isolate",0.5
+"95A6","con","32",0.001,0.001,0.001,0,"No FabV","stutzeri","study_isolate",32
+"95A6","inh","32",0,0,0,0,"No FabV","stutzeri","study_isolate",32
+"95A6","con","16",0.0103333333333333,0.001,0.029,0.00933333333333333,"No FabV","stutzeri","study_isolate",16
+"95A6","inh","16",0,0,0,0,"No FabV","stutzeri","study_isolate",16
+"95A6","con","8",0.00133333333333333,0,0.004,0.00133333333333333,"No FabV","stutzeri","study_isolate",8
+"95A6","inh","8",0,0,0,0,"No FabV","stutzeri","study_isolate",8
+"95A6","con","4",0.000666666666666667,0,0.001,0.000333333333333333,"No FabV","stutzeri","study_isolate",4
+"95A6","inh","4",0,0,0,0,"No FabV","stutzeri","study_isolate",4
+"95A6","con","2",0.00133333333333333,0.001,0.002,0.000333333333333333,"No FabV","stutzeri","study_isolate",2
+"95A6","inh","2",0,0,0,0,"No FabV","stutzeri","study_isolate",2
+"95A6","con","1",0.000666666666666667,0,0.001,0.000333333333333333,"No FabV","stutzeri","study_isolate",1
+"95A6","inh","1",0,0,0,0,"No FabV","stutzeri","study_isolate",1
+"95A6","con","0.5",0.00166666666666667,0.001,0.002,0.000333333333333333,"No FabV","stutzeri","study_isolate",0.5
+"95A6","inh","0.5",0,0,0,0,"No FabV","stutzeri","study_isolate",0.5
+"95A6","con","0.25",0.007,0.005,0.009,0.00115470053837925,"No FabV","stutzeri","study_isolate",0.25
+"95A6","inh","0.25",0,0,0,0,"No FabV","stutzeri","study_isolate",0.25
+"95A6","con","0.125",0.016,0.015,0.017,0.000577350269189626,"No FabV","stutzeri","study_isolate",0.125
+"95A6","inh","0.125",0,0,0,0,"No FabV","stutzeri","study_isolate",0.125
+"95A6","con","0.0625",0.026,0.023,0.028,0.00152752523165195,"No FabV","stutzeri","study_isolate",0.0625
+"95A6","inh","0.0625",0,0,0,0,"No FabV","stutzeri","study_isolate",0.0625
+"95A6","con","GC",0.376666666666667,0.302,0.518,0.0707043924456686,"No FabV","stutzeri","study_isolate",0
+"95A6","inh","GC",0.1,0.1,0.1,0,"No FabV","stutzeri","study_isolate",0
+"96A1","con","16",0.668,0.578,0.74,0.0476235235991626,"FabV","synxantha","study_isolate",16
+"96A1","con","8",0.826666666666667,0.718,0.919,0.0585956008966923,"FabV","synxantha","study_isolate",8
+"96A1","inh","32",0.0103333333333333,0.001,0.017,0.00480740170061865,"FabV","synxantha","study_isolate",32
+"96A1","inh","8",0.251333333333333,0.001,0.381,0.125193627810861,"FabV","synxantha","study_isolate",8
+"96A1","con","32",0.503666666666667,0.473,0.53,0.0165965190460062,"FabV","synxantha","study_isolate",32
+"96A1","con","64",0.368666666666667,0.316,0.409,0.0275459212548388,"FabV","synxantha","study_isolate",64
+"96A1","inh","4",0.662,0.587,0.708,0.0378197479279454,"FabV","synxantha","study_isolate",4
+"96A1","con","4",0.906666666666667,0.884,0.937,0.0157726908857613,"FabV","synxantha","study_isolate",4
+"96A1","inh","16",0.0226666666666667,0.006,0.052,0.0147120509938093,"FabV","synxantha","study_isolate",16
+"96A1","inh","2",0.825333333333333,0.659,0.97,0.0904292233984371,"FabV","synxantha","study_isolate",2
+"96A1","con","2",0.941,0.913,0.976,0.0185202591774521,"FabV","synxantha","study_isolate",2
+"96A1","inh","128",0.066,0.039,0.084,0.0137477270848675,"FabV","synxantha","study_isolate",128
+"96A1","inh","1",0.879666666666667,0.757,0.989,0.0673036238086611,"FabV","synxantha","study_isolate",1
+"96A1","con","1",0.959666666666667,0.942,0.972,0.00906151814604546,"FabV","synxantha","study_isolate",1
+"96A1","inh","64",0.0146666666666667,0.009,0.021,0.00348010216963685,"FabV","synxantha","study_isolate",64
+"96A1","inh",".5",0.916666666666667,0.87,0.968,0.0283862251413917,"FabV","synxantha","study_isolate",0.5
+"96A1","con",".5",0.974,0.93,1.021,0.0263122278291545,"FabV","synxantha","study_isolate",0.5
+"96A1","con","128",0.394,0.365,0.419,0.0157162336455017,"FabV","synxantha","study_isolate",128
+"96A1","inh",".25",0.965666666666667,0.872,1.021,0.047089748825455,"FabV","synxantha","study_isolate",0.25
+"96A1","con",".25",1.00133333333333,0.934,1.057,0.0359830206872321,"FabV","synxantha","study_isolate",0.25
+"96A1","inh","GC",0.934666666666667,0.822,0.997,0.0564397417113548,"FabV","synxantha","study_isolate",0
+"96A1","con","GC",1.02533333333333,0.982,1.06,0.0229298446958931,"FabV","synxantha","study_isolate",0
+"97C1","inh",".5",-0.001,-0.001,-0.001,0,"No FabV","psychrotolerans","study_isolate",0.5
+"97C1","con","32",0.000333333333333333,0,0.001,0.000333333333333333,"No FabV","psychrotolerans","study_isolate",32
+"97C1","con","8",0.000666666666666667,0,0.001,0.000333333333333333,"No FabV","psychrotolerans","study_isolate",8
+"97C1","con",".5",0.0686666666666667,0.003,0.194,0.0626905982672929,"No FabV","psychrotolerans","study_isolate",0.5
+"97C1","inh","16",0,0,0,0,"No FabV","psychrotolerans","study_isolate",16
+"97C1","inh","32",0.0103333333333333,0.002,0.026,0.00783865067753656,"No FabV","psychrotolerans","study_isolate",32
+"97C1","inh",".125",-0.000666666666666667,-0.001,0,0.000333333333333333,"No FabV","psychrotolerans","study_isolate",0.125
+"97C1","inh","8",0,0,0,0,"No FabV","psychrotolerans","study_isolate",8
+"97C1","inh","2",0.001,0,0.002,0.000577350269189626,"No FabV","psychrotolerans","study_isolate",2
+"97C1","con","2",0.00166666666666667,0.001,0.003,0.000666666666666667,"No FabV","psychrotolerans","study_isolate",2
+"97C1","inh","4",0.001,0.001,0.001,0,"No FabV","psychrotolerans","study_isolate",4
+"97C1","inh","GC",0.286666666666667,0.224,0.328,0.0318608083875961,"No FabV","psychrotolerans","study_isolate",0
+"97C1","con","1",0.000666666666666667,0,0.001,0.000333333333333333,"No FabV","psychrotolerans","study_isolate",1
+"97C1","con","16",0.000666666666666667,0,0.001,0.000333333333333333,"No FabV","psychrotolerans","study_isolate",16
+"97C1","con",".25",0.109333333333333,0.032,0.244,0.067580404786529,"No FabV","psychrotolerans","study_isolate",0.25
+"97C1","inh","1",0.000666666666666667,-0.001,0.003,0.00120185042515466,"No FabV","psychrotolerans","study_isolate",1
+"97C1","inh",".25",-0.000333333333333333,-0.001,0.001,0.000666666666666667,"No FabV","psychrotolerans","study_isolate",0.25
+"97C1","con",".0625",0.421666666666667,0.383,0.468,0.0248350111290045,"No FabV","psychrotolerans","study_isolate",0.0625
+"97C1","con","4",0.00233333333333333,0.002,0.003,0.000333333333333333,"No FabV","psychrotolerans","study_isolate",4
+"97C1","con",".125",0.462666666666667,0.45,0.472,0.0065659052011974,"No FabV","psychrotolerans","study_isolate",0.125
+"97C1","inh",".0625",-0.001,-0.001,-0.001,0,"No FabV","psychrotolerans","study_isolate",0.0625
+"97C1","con","GC",0.444333333333333,0.286,0.57,0.0835949227591671,"No FabV","psychrotolerans","study_isolate",0
+"99A1","con","2",0.001,0.001,0.001,0,"No FabV","stutzeri","study_isolate",2
+"99A1","con","8",0.002,0.001,0.004,0.001,"No FabV","stutzeri","study_isolate",8
+"99A1","inh","32",0.00433333333333333,0.002,0.007,0.00145296631451356,"No FabV","stutzeri","study_isolate",32
+"99A1","con","16",-0.000333333333333333,-0.001,0,0.000333333333333333,"No FabV","stutzeri","study_isolate",16
+"99A1","con","32",0.001,0.001,0.001,0,"No FabV","stutzeri","study_isolate",32
+"99A1","inh","GC",0.00266666666666667,0.002,0.003,0.000333333333333333,"No FabV","stutzeri","study_isolate",0
+"99A1","con",".5",0.022,0.021,0.023,0.000577350269189625,"No FabV","stutzeri","study_isolate",0.5
+"99A1","inh","4",-0.000333333333333333,-0.001,0,0.000333333333333333,"No FabV","stutzeri","study_isolate",4
+"99A1","inh",".5",-0.000666666666666667,-0.001,0,0.000333333333333333,"No FabV","stutzeri","study_isolate",0.5
+"99A1","con",".25",0.0813333333333333,0.06,0.098,0.0112150692275072,"No FabV","stutzeri","study_isolate",0.25
+"99A1","con","1",0.00366666666666667,0.003,0.004,0.000333333333333333,"No FabV","stutzeri","study_isolate",1
+"99A1","inh",".0625",-0.000333333333333333,-0.001,0,0.000333333333333333,"No FabV","stutzeri","study_isolate",0.0625
+"99A1","inh",".125",-0.000666666666666667,-0.001,0,0.000333333333333333,"No FabV","stutzeri","study_isolate",0.125
+"99A1","inh","2",0.001,-0.001,0.003,0.00115470053837925,"No FabV","stutzeri","study_isolate",2
+"99A1","inh","16",-0.000666666666666667,-0.001,0,0.000333333333333333,"No FabV","stutzeri","study_isolate",16
+"99A1","inh","1",0,-0.001,0.001,0.000577350269189626,"No FabV","stutzeri","study_isolate",1
+"99A1","con","4",0.001,0.001,0.001,0,"No FabV","stutzeri","study_isolate",4
+"99A1","inh",".25",-0.000666666666666667,-0.002,0,0.000666666666666667,"No FabV","stutzeri","study_isolate",0.25
+"99A1","con",".125",0.240666666666667,0.206,0.279,0.0211528826509402,"No FabV","stutzeri","study_isolate",0.125
+"99A1","inh","8",0,-0.001,0.001,0.000577350269189626,"No FabV","stutzeri","study_isolate",8
+"99A1","con",".0625",0.421333333333333,0.356,0.467,0.0335178227879504,"No FabV","stutzeri","study_isolate",0.0625
+"99A1","con","GC",0.390666666666667,0.365,0.408,0.0130936795609349,"No FabV","stutzeri","study_isolate",0
+"HS_1","con","128",0.328333333333333,0.207,0.437,0.0666966599197025,"FabV","synxantha","hospital",128
+"HS_1","inh","128",0.0863333333333333,0.048,0.117,0.0202840933848285,"FabV","synxantha","hospital",128
+"HS_1","inh","8",0.471333333333333,0.383,0.588,0.0608504542117623,"FabV","synxantha","hospital",8
+"HS_1","inh","0.5",0.820666666666667,0.79,0.84,0.0155062711328173,"FabV","synxantha","hospital",0.5
+"HS_1","con","16",0.480333333333333,0.449,0.537,0.0283862251413917,"FabV","synxantha","hospital",16
+"HS_1","inh","16",0.132333333333333,0.072,0.222,0.0457177330049414,"FabV","synxantha","hospital",16
+"HS_1","inh","1",0.818,0.791,0.841,0.0145716619962629,"FabV","synxantha","hospital",1
+"HS_1","con","32",0.388333333333333,0.384,0.397,0.00433333333333334,"FabV","synxantha","hospital",32
+"HS_1","inh","32",0.00766666666666667,0.005,0.01,0.00145296631451356,"FabV","synxantha","hospital",32
+"HS_1","inh","2",0.794333333333333,0.763,0.813,0.0157621205567158,"FabV","synxantha","hospital",2
+"HS_1","con","64",0.396333333333333,0.344,0.446,0.0294750365186844,"FabV","synxantha","hospital",64
+"HS_1","inh","64",0.0666666666666667,0.063,0.071,0.00233333333333333,"FabV","synxantha","hospital",64
+"HS_1","inh","4",0.690666666666667,0.642,0.761,0.0360200561416059,"FabV","synxantha","hospital",4
+"HS_1","inh","0.25",0.815666666666667,0.766,0.847,0.0251152897211595,"FabV","synxantha","hospital",0.25
+"HS_1","con","8",0.739666666666667,0.676,0.792,0.0339623975073087,"FabV","synxantha","hospital",8
+"HS_1","con","0.5",0.782333333333333,0.68,0.862,0.0537473513559299,"FabV","synxantha","hospital",0.5
+"HS_1","con","2",0.750333333333333,0.619,0.835,0.0665766058345155,"FabV","synxantha","hospital",2
+"HS_1","con","1",0.739,0.644,0.866,0.0660530090154869,"FabV","synxantha","hospital",1
+"HS_1","con","4",0.805333333333333,0.773,0.823,0.0161898459261078,"FabV","synxantha","hospital",4
+"HS_1","con","0.25",0.77,0.731,0.821,0.0266645832519468,"FabV","synxantha","hospital",0.25
+"HS_1","con","GC",0.724333333333333,0.709,0.737,0.00819213715162964,"FabV","synxantha","hospital",0
+"HS_1","inh","GC",0.828333333333333,0.8,0.867,0.0200194350014624,"FabV","synxantha","hospital",0
+"HS_2","inh","128",0.171333333333333,0.022,0.457,0.14288262471149,"FabV","synxantha","hospital",128
+"HS_2","inh","8",0.675666666666667,0.617,0.748,0.0384288664649086,"FabV","synxantha","hospital",8
+"HS_2","inh","64",0.208666666666667,0.025,0.542,0.166955416537203,"FabV","synxantha","hospital",64
+"HS_2","inh","4",0.726,0.667,0.827,0.0507378885383826,"FabV","synxantha","hospital",4
+"HS_2","con","128",0.235666666666667,0.038,0.416,0.109462829815016,"FabV","synxantha","hospital",128
+"HS_2","con","8",0.715,0.688,0.732,0.0136503968196289,"FabV","synxantha","hospital",8
+"HS_2","con","0.5",0.817333333333333,0.796,0.838,0.0121289369324402,"FabV","synxantha","hospital",0.5
+"HS_2","inh","0.5",0.804,0.76,0.854,0.0273007936392577,"FabV","synxantha","hospital",0.5
+"HS_2","con","16",0.549666666666667,0.529,0.561,0.0103494497975067,"FabV","synxantha","hospital",16
+"HS_2","inh","16",0.501666666666667,0.411,0.594,0.0528341219709805,"FabV","synxantha","hospital",16
+"HS_2","inh","1",0.813333333333333,0.81,0.816,0.00176383420737637,"FabV","synxantha","hospital",1
+"HS_2","con","32",0.402666666666667,0.147,0.531,0.127833659278159,"FabV","synxantha","hospital",32
+"HS_2","inh","32",0.194,0.035,0.498,0.152053718577789,"FabV","synxantha","hospital",32
+"HS_2","inh","2",0.782333333333333,0.725,0.832,0.0311251952247336,"FabV","synxantha","hospital",2
+"HS_2","con","64",0.372333333333333,0.053,0.571,0.161246533123799,"FabV","synxantha","hospital",64
+"HS_2","con","4",0.749333333333333,0.71,0.794,0.0243948992847093,"FabV","synxantha","hospital",4
+"HS_2","con","0.25",0.85,0.806,0.879,0.0223681320930768,"FabV","synxantha","hospital",0.25
+"HS_2","inh","0.25",0.830666666666667,0.798,0.856,0.0171399468429099,"FabV","synxantha","hospital",0.25
+"HS_2","con","1",0.831,0.766,0.871,0.03278719262151,"FabV","synxantha","hospital",1
+"HS_2","con","2",0.799666666666667,0.757,0.833,0.0224301384550143,"FabV","synxantha","hospital",2
+"HS_2","con","GC",0.801,0.77,0.86,0.0295127091267474,"FabV","synxantha","hospital",0
+"HS_2","inh","GC",0.787,0.747,0.813,0.0202977831301844,"FabV","synxantha","hospital",0
+"HS_3","inh","128",0.0946666666666667,0.075,0.105,0.00983756970891581,"FabV","aeruginosa","hospital",128
+"HS_3","inh","8",0.499666666666667,0.431,0.632,0.0661824078672808,"FabV","aeruginosa","hospital",8
+"HS_3","inh","4",0.891666666666667,0.849,0.935,0.0248282992660481,"FabV","aeruginosa","hospital",4
+"HS_3","con","128",0.502333333333333,0.486,0.531,0.014379769740082,"FabV","aeruginosa","hospital",128
+"HS_3","inh","2",0.913,0.887,0.962,0.0245153013442625,"FabV","aeruginosa","hospital",2
+"HS_3","con","64",0.400333333333333,0.361,0.433,0.0210502045384626,"FabV","aeruginosa","hospital",64
+"HS_3","inh","64",0.105333333333333,0.07,0.151,0.0239467000742157,"FabV","aeruginosa","hospital",64
+"HS_3","con","0.25",1.05333333333333,1.032,1.075,0.012414149633024,"FabV","aeruginosa","hospital",0.25
+"HS_3","inh","0.25",0.941666666666667,0.921,0.973,0.015930404193798,"FabV","aeruginosa","hospital",0.25
+"HS_3","con","8",0.791666666666667,0.748,0.851,0.0307480803375503,"FabV","aeruginosa","hospital",8
+"HS_3","con","0.5",1.06166666666667,1.042,1.1,0.0191688404564399,"FabV","aeruginosa","hospital",0.5
+"HS_3","inh","0.5",0.939666666666667,0.911,0.96,0.0147459975737298,"FabV","aeruginosa","hospital",0.5
+"HS_3","con","16",0.623333333333333,0.558,0.678,0.0350491718082531,"FabV","aeruginosa","hospital",16
+"HS_3","inh","16",0.058,0.038,0.081,0.0125033328890074,"FabV","aeruginosa","hospital",16
+"HS_3","inh","1",0.924666666666667,0.886,0.971,0.0248350111290045,"FabV","aeruginosa","hospital",1
+"HS_3","con","32",0.553333333333333,0.516,0.607,0.0275095942859537,"FabV","aeruginosa","hospital",32
+"HS_3","inh","32",0.0573333333333333,0.031,0.096,0.0197512306227007,"FabV","aeruginosa","hospital",32
+"HS_3","con","GC",1.09033333333333,1.043,1.129,0.0252014108952478,"FabV","aeruginosa","hospital",0
+"HS_3","inh","GC",0.944,0.929,0.96,0.00896288643983248,"FabV","aeruginosa","hospital",0
+"HS_3","con","4",0.954333333333333,0.937,0.983,0.0144376052184718,"FabV","aeruginosa","hospital",4
+"HS_3","con","2",0.983,0.959,1.016,0.017058722109232,"FabV","aeruginosa","hospital",2
+"HS_3","con","1",1.02533333333333,1.006,1.055,0.015059142664102,"FabV","aeruginosa","hospital",1
+"HS_4","con","64",0.300666666666667,0.269,0.318,0.0158569998563551,"FabV","aeruginosa","hospital",64
+"HS_4","inh","64",0.135666666666667,0.079,0.215,0.0408629144552585,"FabV","aeruginosa","hospital",64
+"HS_4","inh","4",0.273333333333333,0.242,0.323,0.0251152897211594,"FabV","aeruginosa","hospital",4
+"HS_4","con","128",0.533333333333333,0.502,0.559,0.0166966397151576,"FabV","aeruginosa","hospital",128
+"HS_4","inh","128",0.174,0.097,0.293,0.060351746729762,"FabV","aeruginosa","hospital",128
+"HS_4","inh","8",0.145333333333333,0.132,0.168,0.0113920049937567,"FabV","aeruginosa","hospital",8
+"HS_4","con","32",0.237333333333333,0.226,0.247,0.00611918658356194,"FabV","aeruginosa","hospital",32
+"HS_4","inh","32",0.104666666666667,0.082,0.14,0.0179009621094634,"FabV","aeruginosa","hospital",32
+"HS_4","inh","2",0.256666666666667,0.233,0.287,0.0159408629349578,"FabV","aeruginosa","hospital",2
+"HS_4","inh","GC",0.342333333333333,0.3,0.381,0.0234544475763364,"FabV","aeruginosa","hospital",0
+"HS_4","con","4",0.651333333333333,0.573,0.767,0.0590320063844842,"FabV","aeruginosa","hospital",4
+"HS_4","con","0.25",0.602333333333333,0.585,0.633,0.0153767501262277,"FabV","aeruginosa","hospital",0.25
+"HS_4","inh","0.25",0.369666666666667,0.324,0.401,0.0233547520741378,"FabV","aeruginosa","hospital",0.25
+"HS_4","con","8",0.545,0.459,0.681,0.0687895340876793,"FabV","aeruginosa","hospital",8
+"HS_4","con","0.5",0.637333333333333,0.592,0.721,0.0418821096783711,"FabV","aeruginosa","hospital",0.5
+"HS_4","inh","0.5",0.320333333333333,0.302,0.356,0.0178356696288957,"FabV","aeruginosa","hospital",0.5
+"HS_4","con","16",0.321666666666667,0.292,0.377,0.0276907525679202,"FabV","aeruginosa","hospital",16
+"HS_4","inh","16",0.118666666666667,0.096,0.135,0.0116952031952326,"FabV","aeruginosa","hospital",16
+"HS_4","inh","1",0.331666666666667,0.295,0.391,0.0299406820971808,"FabV","aeruginosa","hospital",1
+"HS_4","con","2",0.644666666666667,0.566,0.77,0.0633438587745051,"FabV","aeruginosa","hospital",2
+"HS_4","con","GC",0.585,0.519,0.657,0.0399499687108764,"FabV","aeruginosa","hospital",0
+"HS_4","con","1",0.667333333333333,0.593,0.714,0.0375691954191788,"FabV","aeruginosa","hospital",1
+"HS_5","con","64",1.029,0.967,1.076,0.0323470761172216,"FabV","monteilii","hospital",64
+"HS_5","inh","64",0.132,0.089,0.167,0.0228691932520585,"FabV","monteilii","hospital",64
+"HS_5","inh","32",0.0463333333333333,0.025,0.069,0.0127191893522259,"FabV","monteilii","hospital",32
+"HS_5","inh","2",1.3,1.293,1.312,0.00602771377334163,"FabV","monteilii","hospital",2
+"HS_5","inh","128",0.224,0.057,0.41,0.10234419052068,"FabV","monteilii","hospital",128
+"HS_5","inh","8",1.11633333333333,1.08,1.167,0.0261172569599319,"FabV","monteilii","hospital",8
+"HS_5","inh","4",1.22533333333333,1.22,1.231,0.00317979733805645,"FabV","monteilii","hospital",4
+"HS_5","con","128",0.955,0.855,1.037,0.0533041586870418,"FabV","monteilii","hospital",128
+"HS_5","inh","16",0.649666666666667,0.433,0.882,0.129851624727781,"FabV","monteilii","hospital",16
+"HS_5","inh","1",1.294,1.286,1.302,0.00461880215351695,"FabV","monteilii","hospital",1
+"HS_5","con","32",1.142,1.116,1.172,0.0162890556304942,"FabV","monteilii","hospital",32
+"HS_5","con","2",1.378,1.373,1.385,0.00360555127546395,"FabV","monteilii","hospital",2
+"HS_5","con","GC",1.35633333333333,1.346,1.371,0.00753510303697159,"FabV","monteilii","hospital",0
+"HS_5","inh","GC",1.29933333333333,1.29,1.306,0.00480740170061864,"FabV","monteilii","hospital",0
+"HS_5","con","4",1.34666666666667,1.322,1.367,0.0131698308434257,"FabV","monteilii","hospital",4
+"HS_5","con","0.25",1.34533333333333,1.316,1.379,0.0183151424904216,"FabV","monteilii","hospital",0.25
+"HS_5","inh","0.25",1.277,1.241,1.301,0.0183303027798234,"FabV","monteilii","hospital",0.25
+"HS_5","con","8",1.34633333333333,1.338,1.358,0.00600925212577331,"FabV","monteilii","hospital",8
+"HS_5","con","0.5",1.37066666666667,1.368,1.376,0.0026666666666666,"FabV","monteilii","hospital",0.5
+"HS_5","inh","0.5",1.283,1.267,1.297,0.00871779788708129,"FabV","monteilii","hospital",0.5
+"HS_5","con","16",1.25,1.234,1.272,0.0113724814061547,"FabV","monteilii","hospital",16
+"HS_5","con","1",1.38,1.363,1.406,0.0132035348802255,"FabV","monteilii","hospital",1
+"KT2440","con","1",1.43133333333333,1.402,1.462,0.0173333333333333,"FabV","putida","reference_strain",1
+"KT2440","con","2",1.44366666666667,1.412,1.485,0.0216204635575754,"FabV","putida","reference_strain",2
+"KT2440","con","64",0.853666666666667,0.481,1.129,0.193288500548906,"FabV","putida","reference_strain",64
+"KT2440","con","128",0.773,0.384,1.04,0.198953093299233,"FabV","putida","reference_strain",128
+"KT2440","con","32",1.037,0.72,1.267,0.163787463907753,"FabV","putida","reference_strain",32
+"KT2440","con","8",1.45866666666667,1.439,1.486,0.0140988573217044,"FabV","putida","reference_strain",8
+"KT2440","con",".5",1.43366666666667,1.35,1.499,0.0439785301153996,"FabV","putida","reference_strain",0.5
+"KT2440","con","GC",1.46466666666667,1.366,1.56,0.0560277708918632,"FabV","putida","reference_strain",0
+"KT2440","inh","2",-0.000333333333333333,-0.001,0,0.000333333333333333,"FabV","putida","reference_strain",2
+"KT2440","inh",".5",0.722,0.18,1.005,0.2710885464198,"FabV","putida","reference_strain",0.5
+"KT2440","inh","GC",1.208,1.038,1.351,0.0913582691021088,"FabV","putida","reference_strain",0
+"KT2440","con","16",1.312,1.264,1.367,0.0299388265189759,"FabV","putida","reference_strain",16
+"KT2440","con","4",1.451,1.423,1.484,0.0177857620959388,"FabV","putida","reference_strain",4
+"KT2440","con",".25",1.438,1.368,1.482,0.0353836120259082,"FabV","putida","reference_strain",0.25
+"KT2440","inh","1",0.313,0,0.597,0.172947969054279,"FabV","putida","reference_strain",1
+"KT2440","inh",".25",0.810333333333333,0.276,1.085,0.267201754817924,"FabV","putida","reference_strain",0.25
+"KT2440","inh","32",0.002,0,0.004,0.00115470053837925,"FabV","putida","reference_strain",32
+"KT2440","inh","8",-0.000333333333333333,-0.001,0,0.000333333333333333,"FabV","putida","reference_strain",8
+"KT2440","inh","64",0.0153333333333333,0.01,0.022,0.00352766841475279,"FabV","putida","reference_strain",64
+"KT2440","inh","128",0.0323333333333333,0.017,0.061,0.0143449565275667,"FabV","putida","reference_strain",128
+"KT2440","inh","4",-0.000333333333333333,-0.001,0,0.000333333333333333,"FabV","putida","reference_strain",4
+"KT2440","inh","16",-0.000333333333333333,-0.001,0,0.000333333333333333,"FabV","putida","reference_strain",16
+"PAO1","con","128",0.328666666666667,0.165,0.417,0.0819193370198867,"FabV","aeruginosa","reference_strain",128
+"PAO1","con","32",0.298666666666667,0.259,0.332,0.0213098829445661,"FabV","aeruginosa","reference_strain",32
+"PAO1","con","2",1.157,1.14,1.179,0.0115325625946708,"FabV","aeruginosa","reference_strain",2
+"PAO1","con",".5",1.197,1.149,1.263,0.0341174442184639,"FabV","aeruginosa","reference_strain",0.5
+"PAO1","inh","128",0.0446666666666667,0.039,0.05,0.00317979733805649,"FabV","aeruginosa","reference_strain",128
+"PAO1","inh","2",0.502333333333333,0.177,0.675,0.162769093435387,"FabV","aeruginosa","reference_strain",2
+"PAO1","inh",".5",0.660666666666667,0.576,0.71,0.0425258091568455,"FabV","aeruginosa","reference_strain",0.5
+"PAO1","con","64",0.283666666666667,0.244,0.343,0.0302232434467984,"FabV","aeruginosa","reference_strain",64
+"PAO1","con","16",0.461666666666667,0.337,0.63,0.0873543231773779,"FabV","aeruginosa","reference_strain",16
+"PAO1","con","1",1.21233333333333,1.162,1.294,0.0412000539373973,"FabV","aeruginosa","reference_strain",1
+"PAO1","con",".25",1.198,1.152,1.248,0.0277848879788996,"FabV","aeruginosa","reference_strain",0.25
+"PAO1","inh","64",0.0293333333333333,0.015,0.047,0.00938675189355248,"FabV","aeruginosa","reference_strain",64
+"PAO1","inh","1",0.567666666666667,0.403,0.656,0.0824061756046097,"FabV","aeruginosa","reference_strain",1
+"PAO1","inh",".25",0.829333333333333,0.724,0.99,0.0816197143941203,"FabV","aeruginosa","reference_strain",0.25
+"PAO1","con","8",0.807666666666667,0.545,1.008,0.137242283733711,"FabV","aeruginosa","reference_strain",8
+"PAO1","inh","GC",0.825666666666667,0.763,0.893,0.0376002364058762,"FabV","aeruginosa","reference_strain",0
+"PAO1","con","GC",1.21,1.175,1.274,0.0320468407179241,"FabV","aeruginosa","reference_strain",0
+"PAO1","inh","32",0.00366666666666667,0.001,0.006,0.00145296631451356,"FabV","aeruginosa","reference_strain",32
+"PAO1","inh","8",0.0923333333333333,0.002,0.175,0.0500877008633634,"FabV","aeruginosa","reference_strain",8
+"PAO1","inh","16",0.00166666666666667,0,0.003,0.000881917103688197,"FabV","aeruginosa","reference_strain",16
+"PAO1","con","4",0.939333333333333,0.691,1.092,0.125252190045169,"FabV","aeruginosa","reference_strain",4
+"PAO1","inh","4",0.347,0.021,0.526,0.163261548851324,"FabV","aeruginosa","reference_strain",4

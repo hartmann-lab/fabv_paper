@@ -27,7 +27,7 @@ library(ggimage)
 
 #abs(100*(df[column] - od_gc)/(od_gc-od_sc))
 
-main_path <- '/Users/owlex/Dropbox/Documents/Northwestern/Hartmann_Lab/enr_comparison_project/manuscript/genome_biology_submission/github/susceptibility_analysis'
+main_path <- '/Users/owlex/Dropbox/Documents/Northwestern/Hartmann_Lab/enr_comparison_project/manuscript/ismej_submission/github/fabv_paper/susceptibility_analysis'
 
 
 
@@ -85,6 +85,8 @@ df_sus <- df_sus%>%ungroup()%>%
 #@ add metadata
 df_meta <- read.csv('isolate_metadata.csv')
 df_sus <- merge(df_sus,df_meta,by='isolate')
+#
+
 #
 plot_od_susceptibility <- function(input_df, input_title){
   plotout <- ggplot(input_df,aes(as.factor(mod_variable),y=mean_value))+
@@ -172,6 +174,19 @@ df_mic_summarize$variable <- as.numeric(df_mic_summarize$variable)
 df_meta <- read.csv('isolate_metadata.csv')
 df_mic_summarize <- merge(df_mic_summarize,df_meta,by='isolate')
 
+
+## view table with data
+df_sust <- df_mic_summarize%>%
+  filter(!isolate%in%c('PAO1','KT24440'))%>%
+  group_by(ENR,treatment,variable)%>%
+  mutate(avg_per=mean(mean_perc_inh))%>%
+  mutate(min_per=min(mean_perc_inh))%>%
+  mutate(max_per=max(mean_perc_inh))%>%
+  ungroup()%>%
+  select(ENR,treatment,variable,avg_per,min_per,max_per)%>%
+  unique()
+View(df_sust)
+
 ## plot growth inhibition curve
 plot_inhibition_curve <- function(input_df, input_title){
   plotout <- ggplot(input_df,aes(as.factor(variable),y=mean_perc_inh))+
@@ -226,6 +241,7 @@ df_mic2 <- df_mic2%>%mutate(range=case_when(variable=='128'&group_growth_inhibit
 ## Add metadata for fabv p/a
 df_m <- read.csv('isolate_metadata.csv')
 df_mic2 <- merge(df_mic2,df_m,by='isolate')
+
 
 plot_mic_values <- function(input_df,input_title){
   #

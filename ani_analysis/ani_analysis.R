@@ -25,7 +25,7 @@ library(ggimage)
 
 
 
-main_path <- '/Users/owlex/Dropbox/Documents/Northwestern/Hartmann_Lab/enr_comparison_project/manuscript/genome_biology_submission/github/ani_analysis'
+main_path <- '/Users/owlex/Dropbox/Documents/Northwestern/Hartmann_Lab/enr_comparison_project/manuscript/ismej_submission/github/fabv_paper/ani_analysis'
 
 
 #### Section 0 ####
@@ -65,6 +65,7 @@ df_sp <- df_sp%>%filter(speciesIDsubj!=speciesIDquery) ## output 1
 #
 ## extracting the highest matching ani for study isolate genomes against refseq genomes
 df_sp1 <- df_sp%>%filter(source_subj=='USER')%>%filter(source_query=='REFSEQ')%>%group_by(speciesIDsubj)%>%filter(ani==max(ani)) ## output2 
+write.csv(df_sp1,'study_type_ani.csv',row.names=FALSE)
 ## extracting refseq genomes with >=95 ANI with other refseq genomes
 df_sp2 <- df_sp%>%filter(source_subj=='REFSEQ')%>%filter(source_query=='REFSEQ')%>%filter(ani>=95) ## output 3
 ## extracting the highest matching ani for study isolate genomes against other study isolate genomes
@@ -145,7 +146,6 @@ df_pani[is.na(df_pani)] <- 0
 df_pani <- df_pani%>%arrange(desc(cladeorder),desc(subclade),species_count)%>%mutate(plot_order=seq(1:length(mod_species)))
 ## Write reordered taxonomy to file
 write.csv(df_pani,'reorderd_speciesassignments.csv',row.names=FALSE)
-
 
 
 

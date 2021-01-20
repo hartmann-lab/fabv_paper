@@ -26,7 +26,7 @@ library(ggimage)
 
 
 
-main_path <- '/Users/owlex/Dropbox/Documents/Northwestern/Hartmann_Lab/enr_comparison_project/manuscript/genome_biology_submission/github/quality_assessments'
+main_path <- '/Users/owlex/Dropbox/Documents/Northwestern/Hartmann_Lab/enr_comparison_project/manuscript/ismej_submission/github/fabv_paper/quality_assessments'
 
 
 
@@ -48,6 +48,7 @@ write.csv(df_checkm,'checkm_quast_metrics.csv')
 
 #### Section 1 ####
 #### CheckM and QUAST quality check for 8,747 genomes downloaded from NCBI. A subset of the original ~9,000 genommes downloaded was already filtered for contigs
+###
 #### output is 'large_ani_analysis.csv', which is the curated list of genomes that pass the metrics and also all the type strains
 section_1_path <- paste(main_path,'section_1',sep='/')
 setwd(section_1_path)
@@ -55,6 +56,7 @@ setwd(section_1_path)
 ## Designate the representative species genomes in the df_meta dataset
 df_meta <- read.csv('processed_genomes_metadata.csv')
 df_rep <- read.csv('processed_genomes_metadata_typeestrains.csv')%>%filter(source=='REFSEQ')
+
 ## filter for quast metrics
 df_meta <- df_meta%>%mutate(representative=case_when(filename%in%df_rep$filename~1,TRUE~0))
 df_meta <- df_meta%>%filter((total_contigs<=300 & N50>=10000)|representative==1)
@@ -73,20 +75,32 @@ write.csv(df_meta,'large_ani_analysis.csv',row.names=FALSE)
 
 
 #### Section 2 #### 
-#### Generate figure with compelteness, conitg, and n50 statistics for all genomes in study
+#### Make a large genome strain datatable for publication 
+#### and Generate figure with compelteness, conitg, and n50 statistics for all (7,163) genomes in study
 section_2_path <- paste(main_path,'section_2',sep='/')
 setwd(section_2_path)
 #
 ####
 # Contains all metadata, quast, and checkm info for the ~8000 ncbi refseq genomes
 df_compiled <- read.csv('large_ani_analysis.csv')
+
 ## Filtering for desired checkM values
 df_compiled <- df_compiled%>%mutate(overallquality=Completeness-(5*Contamination))
 nrow(df_compiled%>%filter(representative==1))
 df_compiled <- df_compiled%>%filter((overallquality>=50&Completeness>=90&Contamination<=10)|(representative==1))
 nrow(df_compiled%>%filter(representative==1))
-# Writing the compiled dataframe
-write.csv(df_compiled,'filtered_processed_genomes_metadata.csv',row.names=FALSE)
+
+df_metapass <- read.csv('pass_largegenomesanalysis.csv')
+df_metapass <- merge(df_compiled,df_metapass,by.x='filename',by.y='filename',all.y=TRUE)
+df_metapass <- df_metapass%>%select(filename,id,species,mod_species,fabv_pa,type,total_contigs,total_length,N50,Completeness,Contamination,overallquality,description)%>%
+  rename(refseq_species=species,ANI_species_group=mod_species,fabv_detected=fabv_pa,type_strain=type,overall_quality=overallquality,refseq_description=description)
+
+# Writing the compiled df_metapass dataframe
+write.csv(df_metapass,'filtered_processed_genomes_metadata.csv',row.names=FALSE)
+
+
+#### Generate figure with completeness, conitg, and n50 statistics for all (7,134) genomes in study
+
 #
 ## Reading in study isolate checkm and quast data
 df_isolate <- read.csv('checkm_output_modified.txt',sep='\t')

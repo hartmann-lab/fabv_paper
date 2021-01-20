@@ -23,7 +23,7 @@ library(treespace)
 #ASR
 library(ggimage)
 
-main_path <- '/Users/owlex/Dropbox/Documents/Northwestern/Hartmann_Lab/enr_comparison_project/manuscript/genome_biology_submission/github/phylogenetic_analysis'
+main_path <- '/Users/owlex/Dropbox/Documents/Northwestern/Hartmann_Lab/enr_comparison_project/manuscript/ismej_submission/github/fabv_paper/phylogenetic_analysis'
 
 #### Section 0 ####
 #### 34 gene MLSA phylogenetic tree construction
@@ -104,6 +104,15 @@ fitER <- ace(char1, tree_species, type="discrete",
 #
 ancstats <- as.data.frame(fitER$lik.anc)
 ancstats$node <- 1:Nnode(tree_species)+Ntip(tree_species)
+## convert pies with values <.1 fabV pos to NA
+ancstats <- ancstats%>%mutate(fabvPos = case_when(fabvPos>.9~NA_real_,
+                                                  fabvPos<.1~NA_real_,
+                                                  TRUE~fabvPos),
+                              fabvNeg = case_when(fabvNeg>.9~NA_real_,
+                                                  fabvNeg<.1~NA_real_,
+                                                  TRUE~fabvNeg))
+
+
 #
 #
 ## drmatically shortening C japonicus outgroup branch length to focus on Pseudomonas relationships
@@ -114,10 +123,11 @@ pies <- lapply(pies, function(g) g + scale_fill_manual(values = c('blue','maroon
 pg <- ggtree(tree_species)+xlim(0,5)+geom_tiplab(size=2.6,align = TRUE,offset=.05)
 #
 pg2 <- pg %<+% df_treespecies+
-  geom_tippoint(aes(fill = fabv_pos), shape=21, size=1,offset=1,color='white')+
+  geom_tippoint(aes(fill = fabv_pos,x=x+0.025), shape=22, size=1,color='white')+
   scale_fill_manual(values = c('blue','maroon'))+
-  geom_inset(pies,width=.05,height=.05)+
-  theme(legend.position='none')
+  geom_inset(pies,width=.15,height=.15,hjust=.025)+
+  theme(legend.position='none')+
+  theme_transparent()
 ##
 save_plot('sec1_ace_reconstruction.png',pg2,base_height = 16, base_aspect_ratio = .8,bg='white')
 ## Ancestral state reconstruction stats
